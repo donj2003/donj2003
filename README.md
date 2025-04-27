@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm Don Andrei Cabanda, a mechanical engineering student looking to bridge Mechanical Engineering and Data
+- 🔭 The projects I've worked are listed below
+- 🌱 I’m currently learning machine learning to satisfy my curiosity
 
 <!--
 **donj2003/donj2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
